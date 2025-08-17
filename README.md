@@ -1,5 +1,5 @@
 # Projet 2 : Traitement de données et OOP
-⏰ Date de remise le **dimanche 24 novembre à 23h59** directement sur GitHub.
+
 
 Ce projet se divise en 2 parties distinctes.
 
@@ -489,5 +489,6 @@ Joue Stan                      solo avec *** piano ***    du fabricant Yamaha
 Joue My Heart Will Go On       solo avec *** piano ***    du fabricant Steinway
 ```
 Note : la lecture aléatoire de "Playlist-csv" ne produira pas forcément une sortie identique, mais vous pouvez vous assurez visuellement que l'appel joue 9 chansons différentes et que "We Will Rock You" ne se trouve pas dans la liste.
+
 # Playlist-Simulation-and-Analysis-of-a-Spotify-Dataset
 # Playlist-Simulation-and-Analysis-of-a-Spotify-Dataset
